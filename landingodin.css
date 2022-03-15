@@ -1,0 +1,37 @@
+:root {
+    --bg-color: #1f2937;
+    --main-fnt-size: 4.8rem; 
+    --main-fnt-clr: #f9faf8;
+    --main-fnt-weight: bolder;
+    --hero-fnt-size: 1.8rem;
+    --hero-fnt-clr: #e5e7eb;
+    --header-logo-fnt-size: 2.4rem;
+    --header-logo-fnt-clr: #f9faf8;
+    --btn-clr: #3882f6;
+    --info-header-fnt-size: 3.6rem;
+    --info-header-fnt-clr: #1f2937;
+    --info-header-fnt-weight: bolder;
+    --quote-bg-clr: #e5e7eb;
+    --quote-fnt-size: 3.6rem;
+    --quote-fnt-clr: #1f2937;
+    --quote-fnt-weight: lighter;
+    --quote-fnt-style: italic;
+}
+
+html {
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+
+
+.four-images img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
