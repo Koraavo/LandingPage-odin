@@ -155,14 +155,14 @@ ul li {
     font-size: var(--quote-fnt-size);
     font-style: var(--quote-fnt-style);
     font-weight: var(--quote-fnt-weight);
-    margin: 0 10rem;
+    margin: 0 15rem;
     color: var(--quote-fnt-clr);
 } 
 
 .quote-section figcaption {
     font-weight: bold;
     text-align: right;
-    margin: 0 10rem;
+    margin: 0 15rem;
 }
 
 /* call to action */
