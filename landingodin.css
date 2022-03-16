@@ -98,7 +98,6 @@ ul li {
 }
 
 .hero {
-    /* border: 1px solid red; */
     background-color: var(--bg-color);
     gap: 5rem;
     display: flex;
