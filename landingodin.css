@@ -108,8 +108,8 @@ ul li {
 }
 
 .hero img{
-       width: 500px;
-       height: 270px;
+       width: 50rem;
+       height: 27rem;
        object-fit: cover;
        border-radius: 1rem;
 }
