@@ -94,7 +94,7 @@ ul li {
 .hero-main-text,
 .hero-secondary-text,
 .signup-button  {
-    margin: 3rem 0;
+    margin-bottom: 2.5rem;
 }
 
 .hero {
@@ -103,14 +103,15 @@ ul li {
     gap: 5rem;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 10rem 15rem;
 }
 
 .hero img{
-       width: 800px;
-       height: 250px;
+       width: 500px;
+       height: 270px;
        object-fit: cover;
+       border-radius: 1rem;
 }
 
 /* random info section */
